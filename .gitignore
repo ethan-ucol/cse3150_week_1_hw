@@ -1,3 +1,6 @@
 *.exe
 *.out
 *.o
+math_program
+__pycache__/
+*.pyc
